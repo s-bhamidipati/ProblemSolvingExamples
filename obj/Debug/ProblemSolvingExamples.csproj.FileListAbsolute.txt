@@ -1,0 +1,7 @@
+C:\Users\sbhamidipati2\source\repos\ProblemSolvingExamples\bin\Debug\ProblemSolvingExamples.exe.config
+C:\Users\sbhamidipati2\source\repos\ProblemSolvingExamples\bin\Debug\ProblemSolvingExamples.exe
+C:\Users\sbhamidipati2\source\repos\ProblemSolvingExamples\bin\Debug\ProblemSolvingExamples.pdb
+C:\Users\sbhamidipati2\source\repos\ProblemSolvingExamples\obj\Debug\ProblemSolvingExamples.csprojAssemblyReference.cache
+C:\Users\sbhamidipati2\source\repos\ProblemSolvingExamples\obj\Debug\ProblemSolvingExamples.csproj.CoreCompileInputs.cache
+C:\Users\sbhamidipati2\source\repos\ProblemSolvingExamples\obj\Debug\ProblemSolvingExamples.exe
+C:\Users\sbhamidipati2\source\repos\ProblemSolvingExamples\obj\Debug\ProblemSolvingExamples.pdb
