@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ProblemSolvingExamples.ReverseofString</StartupObject>
+    <StartupObject>ProblemSolvingExamples.factorial</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="factorial.cs" />
     <Compile Include="JsonSerialization.cs" />
     <Compile Include="Largestof3NumbesExample.cs" />
     <Compile Include="ListAddnRemoveExample.cs" />

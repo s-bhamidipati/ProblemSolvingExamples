@@ -41,12 +41,12 @@ namespace ProblemSolvingExamples
             //findThePairs(new int[] { 12, 23, 125, 41, -75, 38, 27, 11 }, 50);
 
 
-            List<int> lst = new List<int> { 2, 3, 1, 4, 5, 6, 9, 10, 12, 23 };
+            int[] lst = { 2, 3, 1, 4, 5, 6, 9, 10, 12, 23 };
             int i_sum = 18;
             HashSet<string> match_sum = new HashSet<string>();
             //int[] match_arr = { };
 
-            for (int i = 1; i < lst.Count; i++)
+            for (int i = 1; i < lst.Length; i++)
             {
                 var combinations = GetCombinations(lst, i);
                 foreach (var matches in combinations)
